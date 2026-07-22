@@ -267,7 +267,7 @@ export function Changelog() {
 		title: "Changelog — Minty Flow",
 		description:
 			"See what's new in Minty Flow. Every feature release, improvement, and bug fix — documented with each version.",
-		canonical: "https://deployed_url_path/changelog",
+		canonical: "https://minty-flow-web.adelefaell.workers.dev/changelog",
 	});
 
 	useEffect(() => {

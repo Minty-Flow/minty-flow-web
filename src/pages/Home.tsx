@@ -78,7 +78,7 @@ export function Home() {
 		title: "Minty Flow — Free, Private Expense Tracker for Android",
 		description:
 			"Minty Flow is a free, open-source expense tracker that works 100% offline. No account, no ads, no subscriptions. Track income, expenses, and budgets with 60+ themes on Android.",
-		canonical: "https://deployed_url_path/",
+		canonical: "https://minty-flow-web.adelefaell.workers.dev/",
 	});
 
 	return (

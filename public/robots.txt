@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://deployed_url_path/sitemap.xml
+Sitemap: https://minty-flow-web.adelefaell.workers.dev/sitemap.xml

@@ -4,11 +4,11 @@ Minty Flow is a free, open-source, privacy-first expense tracker for Android. Wo
 
 ## Pages
 
-- [Home](https://deployed_url_path/)
-- [FAQ](https://deployed_url_path/faq)
-- [Privacy Policy](https://deployed_url_path/privacy)
-- [Changelog](https://deployed_url_path/changelog)
-- [Sitemap](https://deployed_url_path/sitemap.xml)
+- [Home](https://minty-flow-web.adelefaell.workers.dev/)
+- [FAQ](https://minty-flow-web.adelefaell.workers.dev/faq)
+- [Privacy Policy](https://minty-flow-web.adelefaell.workers.dev/privacy)
+- [Changelog](https://minty-flow-web.adelefaell.workers.dev/changelog)
+- [Sitemap](https://minty-flow-web.adelefaell.workers.dev/sitemap.xml)
 
 ## Source
 
